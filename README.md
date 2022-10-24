@@ -1,2 +1,3 @@
-# IBM-Project-53453-1661407479
-SmartFarmer - IoT Enabled Smart Farming Application
+Smart Farmer - IoT Enabled Smart Farming Application 
+Team Lead : SRI RAJESWARI E
+Team Members : MATHIBALAN M, THIRUPONPUGAZH P, RUHI ANGEL A.
